@@ -1,0 +1,25 @@
+{
+  "name": "spolitube",
+  "version": "1.0.0",
+  "description": "spotify to youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canbaran011/SpoTube.git"
+  },
+  "author": "CBG \u001b[1;2o\u001b[1;2o//",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/canbaran011/SpoTube/issues"
+  },
+  "homepage": "https://github.com/canbaran011/SpoTube#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.5.6",
+    "mongoose": "^5.9.10",
+    "pug": "^2.0.4"
+  }
+}
