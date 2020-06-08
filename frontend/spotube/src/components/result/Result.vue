@@ -1,5 +1,6 @@
 <template>
   <div>
+    <h4>Results</h4>
     <div class="ui middle aligned divided list">
       <div class="item">
         <img

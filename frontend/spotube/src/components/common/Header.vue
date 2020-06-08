@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <h2 class="ui header head">WELCOME TO SPOTUBE WEBAPP</h2>
-    <div class="ui input inputted" style="width:95%">
+    <div class="ui input inputted" >
       <input
         type="text"
         placeholder="Please paste the playlist that will converted to a youtube links"
@@ -10,7 +10,7 @@
         <i class="search icon"></i>
       </button>
     </div> <br>
-    <small>ps : *playlist should be open for everyone</small>
+    <small>ps : *playlist should be public</small>
   </div>
 </template>
 
@@ -23,9 +23,7 @@ export default {};
     flex-direction: column;
     justify-content: center;
 }
-.inputted{
-    margin-left:11px;
-}
+
 small {
   font-size: 15px;
   color: brown;

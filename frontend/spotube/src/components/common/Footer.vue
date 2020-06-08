@@ -2,7 +2,7 @@
     <div>
         <hr>
         <div class="footer">
-       SpoTube WebApp by CBG
+       CBG
 
         </div>
     </div>
